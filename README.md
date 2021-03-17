@@ -1,5 +1,5 @@
 # loggerhead
-## SwaggerIO
+## API Documentation (SwaggerIO)
 
 ### Downloading the Editor
 Checkout the Docker instructions on the [SwaggerEditor repo](https://github.com/swagger-api/swagger-editor).
